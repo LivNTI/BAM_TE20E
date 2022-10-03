@@ -15,5 +15,6 @@ public class Main {
         aFriend.hit(damage);
         System.out.println("aFriend has " + aFriend.getHp());
 
+
     }
 }
