@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a502024d-d03d-456e-b57a-868a2cd3a86f" name="Changes" comment="hje">
-      <change afterPath="$PROJECT_DIR$/src/Enemy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Healthbar.java" afterDir="false" />
+    <list default="true" id="a502024d-d03d-456e-b57a-868a2cd3a86f" name="Changes" comment="First Graphics">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Friend.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Friend.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Healthbar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Healthbar.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +78,7 @@
       <workItem from="1664280693046" duration="39000" />
       <workItem from="1664364849328" duration="5031000" />
       <workItem from="1664782718346" duration="2332000" />
-      <workItem from="1664968601757" duration="154000" />
+      <workItem from="1664968601757" duration="1721000" />
     </task>
     <task id="LOCAL-00001" summary="hje">
       <created>1664181708453</created>
@@ -104,7 +101,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664782735962</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="First Graphics">
+      <created>1664968822457</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1664968822457</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,6 +127,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="hje" />
-    <option name="LAST_COMMIT_MESSAGE" value="hje" />
+    <MESSAGE value="First Graphics" />
+    <option name="LAST_COMMIT_MESSAGE" value="First Graphics" />
   </component>
 </project>
