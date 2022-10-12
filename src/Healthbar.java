@@ -10,8 +10,10 @@ import java.awt.*;
 
 public class Healthbar extends JPanel {
 
+    private Friend friend;
 
-    public Healthbar() {
+    public Healthbar(Friend friend) {
+        this.friend = friend;
     }
 
     /*
@@ -28,6 +30,6 @@ public class Healthbar extends JPanel {
      */
     protected void addHealthbar(Graphics g) {
         g.setColor(Color.GREEN);
-        g.fillRect(10, 50, 300, 100);
+        g.fillRect(20, 50, friend.getHp() * 3, 100);
     }
 }
